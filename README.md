@@ -1,18 +1,94 @@
-<h1 align="center">Hi 👋, I'm Madhavan S.</h1>
-<h3 align="center">Innovative Developer and Tech Enthusiast - As a dedicated computer science engineer with a strong technical foundation, I am committed to developing innovative, simple, and secure technological solutions. I focus on leveraging the latest advancements to enhance project efficiency and effectiveness. Despite having a lower CGPA, I believe that academic scores are merely a reflection of theoretical knowledge. The true essence of learning lies in practical experience and project work, which provide real-world insights and skills that are invaluable. Just as we complete one paper to move to the next academically, projects offer continuous opportunities for growth and learning. Based in Tamil Nadu, I have a keen interest in working with IT companies, particularly those located in Coimbatore. My experience involves leading project teams and contributing to successful project completions, fostering an environment where collaboration and innovation are at the forefront. With a creative approach and an innovative mindset, I apply my unique style to each project, ensuring that solutions are not only effective but also groundbreaking. Trusting in my skills and the power of practical experience, I am dedicated to building a career that reflects my commitment to technology and innovation. With a positive attitude and a focus on personal and professional growth, I am excited about opportunities to collaborate and create remarkable technological solutions.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile - Madhavan S</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #58a6ff;
+            font-size: 2.5em;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+        h3 {
+            color: #8b949e;
+            font-size: 1.2em;
+            max-width: 80%;
+            margin: auto;
+            line-height: 1.6;
+            opacity: 0;
+            animation: fadeIn 2s ease-in-out forwards;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .social-icons img, .skills img {
+            width: 40px;
+            height: 40px;
+            margin: 10px;
+            transition: transform 0.3s ease-in-out;
+        }
+        .social-icons img:hover, .skills img:hover {
+            transform: scale(1.2);
+        }
+        .section-title {
+            font-size: 1.5em;
+            color: #58a6ff;
+            margin-top: 20px;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+<body>
 
-- 🌱 I’m currently learning **SQL, Cloud(Azure)**
+    <h1>Hi 👋, I'm Madhavan S.</h1>
+    <h3>Innovative Developer and Tech Enthusiast - As a dedicated computer science engineer with a strong technical foundation, I am committed to developing innovative, simple, and secure technological solutions...</h3>
 
-- 📫 How to reach me **madhavansiva27@gmail.com**
+    <p>🌱 I’m currently learning <b>SQL, Cloud (Azure)</b></p>
+    <p>📫 Reach me at <b>madhavansiva27@gmail.com</b></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhavansiva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhavansiva/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/call.mr_speed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/call.mr_speed/" height="30" width="40" /></a>
-</p>
+    <h3 class="section-title">Connect with me:</h3>
+    <div class="social-icons">
+        <a href="https://www.linkedin.com/in/madhavansiva/" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
+        </a>
+        <a href="https://www.instagram.com/call.mr_speed/" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram">
+        </a>
+    </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+    <h3 class="section-title">Languages and Tools:</h3>
+    <div class="container skills">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
+    </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=speed00j7&show_icons=true&locale=en&layout=compact" alt="speed00j7" /></p>
+    <h3 class="section-title">GitHub Stats:</h3>
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=speed00j7&show_icons=true&locale=en&layout=compact" alt="GitHub Stats">
+    </p>
 
+</body>
+</html>
